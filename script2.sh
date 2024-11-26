@@ -1,3 +1,3 @@
 echo '#!/bin/bash
-echo "Script 2."'
+echo "this is my git task -1."'
 
